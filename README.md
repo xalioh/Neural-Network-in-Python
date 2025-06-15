@@ -1,3 +1,5 @@
+![Built with Python](https://img.shields.io/badge/Built%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 # 🧠 Neural Network from Scratch in Python
 
 This project demonstrates a minimal working implementation of a feedforward neural network using just **NumPy**. It’s designed for learners who want to understand the core logic of forward propagation, backpropagation, and weight updates—without relying on machine learning libraries like TensorFlow or PyTorch.
